@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as py
 import seaborn as sns
-%matplotlib inline
+
 
 # Read in the Ecommerce Customers csv file as a DataFrame called customers.
 customers = pd.read_csv("Ecommerce Customers")
