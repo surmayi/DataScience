@@ -12,7 +12,7 @@ ad_data.head()
 ad_data.info()
 ad_data.describe()
 
-# Exploratory Data Analysis
+# Performing exploratory Data Analysis
 
 #  Create a histogram of the Age
 plt.hist(ad_data['Age'],bins=40)
